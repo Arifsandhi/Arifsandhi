@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Arifsandhi
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning c programing language
+- 🌱 I’m currently working on Html css and React for webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me from my emali address arifsandhi02@gmail.com
+- Master at c++ 
 
 
 <!---
