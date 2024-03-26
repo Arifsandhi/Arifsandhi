@@ -10,7 +10,8 @@
 
 🔍 Let's connect and embark on this exciting tech journey together! Whether it's discussing new technologies, collaborating on projects, or sharing insights, I'm always up for a good tech chat. Happy coding! 🚀
 📫 How to reach me from my emali address arifsandhi02@gmail.com
-
+MY leetcode profile https://leetcode.com/arifsandhi02/
+MY Geek for geeks profile https://auth.geeksforgeeks.org/user/arifsandhi02
 
 
 <!---
